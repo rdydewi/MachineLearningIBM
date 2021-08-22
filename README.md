@@ -1,2 +1,2 @@
 # MachineLearningIBM
-This repository contains with project from Fresh Graduate Academy program from IBM and Ministry of Communication and Informatics Indonesia 2021.
+This repository contains with projects of Digitalent - Fresh Graduate Academy program from IBM & Ministry of Communication and Informatics Indonesia 2021.
